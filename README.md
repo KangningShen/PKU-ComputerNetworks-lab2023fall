@@ -15,7 +15,8 @@ Lab 要求与介绍：https://edu.n2sys.cn/#/README
 
 
 - Lab3  
-实现：因ddl未到，仍在提交截止时间内，暂不公开代码。  
-得分：110 / 110  
-![image](https://github.com/KangningShen/PKU-ComputerNetworks-lab2023fall/assets/98076346/e2254f59-80e2-4882-b4b4-eec80d43ca06)
+实现：[router.cpp](https://github.com/KangningShen/PKU-ComputerNetworks-lab2023fall/blob/main/Lab3-router/router.cpp) , [router.h](https://github.com/KangningShen/PKU-ComputerNetworks-lab2023fall/blob/main/Lab3-router/router.h)
+得分：130 / 130  
+![image](https://github.com/KangningShen/PKU-ComputerNetworks-lab2023fall/assets/98076346/75fffed4-061d-49be-a1ca-19ada3f156dd)
+
 
